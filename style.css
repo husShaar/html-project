@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrap{
+    margin: 0 auto;
+    text-align:center;
+}
+
+#nheader{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+#npara{
+    background-color: grey;
+}
+
+#nfooter{
+ background-color: rgb(3, 0, 0);
+ padding: 40px;
+}
+
+.text_para{
+    color: rgb(232, 245, 230);
+    font-size: 30px;
+}
+
+
+
+
